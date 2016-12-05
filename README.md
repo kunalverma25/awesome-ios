@@ -157,7 +157,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
     - [News, Blogs and more](#news-blogs-and-more)
-    - [UIKit references](#uikit-references)
+    - [
+    Kit references](#uikit-references)
     - [Forums and discuss lists](#forums-and-discuss-lists)
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
     - [Prototyping](#prototyping)
@@ -1441,6 +1442,7 @@ Most of these are paid services, some have free tiers.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty fill animation. :large_orange_diamond:
 * [CRRulerControl](https://github.com/Cleveroad/CRRulerControl) - Customizable component is aimed at turning a simple ruler into a handy and smart instrument.
 * [Macaw-Examples](https://github.com/exyte/Macaw-Examples) - Various usages of the Macaw library. :large_orange_diamond:
+* [KVCardSelectionVC](https://github.com/kunalverma25/KVCardSelectionVC) - Awesome looking Dial like card selection ViewController. :large_orange_diamond:
 
 #### Activity Indicator
 
